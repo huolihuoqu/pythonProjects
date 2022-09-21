@@ -29,3 +29,4 @@ class LstmRNN(nn.Module):
         return x
 lstm = LstmRNN
 print(lstm)
+print(12)
